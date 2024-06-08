@@ -1,3 +1,11 @@
+# DogInformation Website
+## In this website user able to find the dog information
+
+## Technologies
+* React
+* Api
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
